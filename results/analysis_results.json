@@ -1,0 +1,1889 @@
+{
+  "sdg_analysis": {
+    "availability": {
+      "SDG_NAT_AIR.1.GLAST": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.1.GLAST.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.1.GLAST.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.1.GLAST.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.1": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.1.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.1.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.1.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.2": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.2.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.2.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.2.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.3": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.3.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.3.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_CR.MOD.3.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_GER.5T8": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_OAEPG.1": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_OAEPG.1.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_OAEPG.1.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_OAEPG.1.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ODAFLOW.VOLUMESCHOLARSHIP": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.1.CP": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.1": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.1.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.1.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.1.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.2": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.2.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.2.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.2.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.3": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.3.F": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.3.GPIA": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_ROFST.MOD.3.M": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_XGDP.FSGOV": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_XGOVEXP.IMF": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_YEARS.FC.COMP.02": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_YEARS.FC.COMP.1T3": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_YEARS.FC.FREE.02": {
+        "count": 1350,
+        "percentage": 100.0
+      },
+      "SDG_NAT_YEARS.FC.FREE.1T3": {
+        "count": 1350,
+        "percentage": 100.0
+      }
+    },
+    "statistics": {
+      "SDG_NAT_AIR.1.GLAST": {
+        "mean": 67.73094626452391,
+        "median": 67.04357751623496,
+        "std": 21.231878759853842,
+        "min": 15.69299030303955,
+        "max": 156.1671763506626,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.1.GLAST.F": {
+        "mean": 65.90647934791774,
+        "median": 65.5177993774414,
+        "std": 23.584411069932937,
+        "min": 12.18770980834961,
+        "max": 167.0403587443946,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.1.GLAST.GPIA": {
+        "mean": 0.9270832028363788,
+        "median": 0.969745010137558,
+        "std": 0.1506848642899393,
+        "min": 0.4023500084877014,
+        "max": 1.288949966430664,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.1.GLAST.M": {
+        "mean": 69.5246951337159,
+        "median": 68.5839264609597,
+        "std": 19.591671254870366,
+        "min": 19.20978927612305,
+        "max": 161.9153674832962,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST": {
+        "mean": 43.98944339984707,
+        "median": 39.178466601448726,
+        "std": 23.90334492087436,
+        "min": 3.711839914321899,
+        "max": 147.3629782833506,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.F": {
+        "mean": 43.251447282027655,
+        "median": 38.8315538328949,
+        "std": 26.27795989345901,
+        "min": 2.946789979934692,
+        "max": 154.0723981900452,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.GPIA": {
+        "mean": 0.902516663935209,
+        "median": 0.9253399968147278,
+        "std": 0.20242996113843909,
+        "min": 0.2705599963665009,
+        "max": 1.348897465386438,
+        "records": 1350
+      },
+      "SDG_NAT_AIR.2.GPV.GLAST.M": {
+        "mean": 45.19479335534121,
+        "median": 43.40309589436193,
+        "std": 22.162649414927863,
+        "min": 4.4822998046875,
+        "max": 154.93183770714637,
+        "records": 1350
+      },
+      "SDG_NAT_CR.MOD.1": {
+        "mean": 57.59281481481483,
+        "median": 58.85,
+        "std": 22.50072802221747,
+        "min": 6.3,
+        "max": 99.9,
+        "records": 1350
+      },
+      "SDG_NAT_CR.MOD.1.F": {
+        "mean": 58.391851851851854,
+        "median": 60.4,
+        "std": 24.110524638572222,
+        "min": 3.6,
+        "max": 100.0,
+        "records": 1350
+      }
+    },
+    "sdg_labour_correlations": [
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.4832097921028668,
+        "p_value": 6.54926861060796e-80,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1.F",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.47556533950474383,
+        "p_value": 4.061602898831218e-77,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1.F",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.4372110141868931,
+        "p_value": 3.951316105475973e-64,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.42826690437237463,
+        "p_value": 2.4757282859427924e-61,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.GPIA",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.38555841123441953,
+        "p_value": 4.3668616316520805e-49,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.GPIA",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.3727848017779659,
+        "p_value": 9.255834376500343e-46,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.F",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.3629041229959249,
+        "p_value": 2.7464661786004185e-43,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.F",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.3491620443417579,
+        "p_value": 5.440387503283653e-40,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.F",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.33703362815419374,
+        "p_value": 3.2513810389055188e-37,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.F",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.3347398061134053,
+        "p_value": 1.05537739099402e-36,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.32794763284573775,
+        "p_value": 3.2526674733611375e-35,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.3268243943133037,
+        "p_value": 5.686372923784763e-35,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.32552860620838914,
+        "p_value": 1.0800189577530288e-34,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.3071024603908469,
+        "p_value": 7.084447439094345e-31,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.3022550676824109,
+        "p_value": 6.459660601540388e-30,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.M",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.300891603684219,
+        "p_value": 1.1938357363107254e-29,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.2970559678978606,
+        "p_value": 6.60195576810158e-29,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.M",
+        "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+        "correlation": 0.28958660158192545,
+        "p_value": 1.713744542364767e-27,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.M",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.2666600233660995,
+        "p_value": 2.068460904977349e-23,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.M",
+        "labour_indicator": "Unemployment, total (% of total labor force)",
+        "correlation": 0.2536420329093107,
+        "p_value": 2.908025484724716e-21,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.24961733869615083,
+        "p_value": 1.2686849556119378e-20,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_CR.MOD.1.F",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.21504803525378388,
+        "p_value": 1.3749925241268237e-15,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.GPIA",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.1468972081573984,
+        "p_value": 5.9006711061816475e-08,
+        "sample_size": 1350,
+        "significance": "***"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.06112333409189649,
+        "p_value": 0.024714615820611387,
+        "sample_size": 1350,
+        "significance": "*"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.F",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.044555507770152984,
+        "p_value": 0.10176215666752897,
+        "sample_size": 1350,
+        "significance": "ns"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.F",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.03474086628540369,
+        "p_value": 0.2020744646162333,
+        "sample_size": 1350,
+        "significance": "ns"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.03152862649006961,
+        "p_value": 0.2470067253390554,
+        "sample_size": 1350,
+        "significance": "ns"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.1.GLAST.M",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.02727828412179472,
+        "p_value": 0.31657252943681485,
+        "sample_size": 1350,
+        "significance": "ns"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST.M",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": -0.014998893538056725,
+        "p_value": 0.5818976107153233,
+        "sample_size": 1350,
+        "significance": "ns"
+      },
+      {
+        "sdg_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+        "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+        "correlation": 0.01180379280389447,
+        "p_value": 0.664787837093829,
+        "sample_size": 1350,
+        "significance": "ns"
+      }
+    ]
+  },
+  "eda": {
+    "missing_analysis": {},
+    "distribution_stats": {
+      "SDG_NAT_XGDP.FSGOV": {
+        "mean": 3.7817852448153157,
+        "median": 3.390225465889059,
+        "std": 2.0199307181090274,
+        "skewness": 1.2334500456188398,
+        "kurtosis": 2.0279583170986917
+      },
+      "Foreign direct investment, net inflows (% of GDP)": {
+        "mean": 4.116458960475613,
+        "median": 2.320693013441015,
+        "std": 7.279053270846399,
+        "skewness": 6.18417595081097,
+        "kurtosis": 59.384796104170135
+      },
+      "Agriculture, forestry, and fishing, value added (% of GDP)": {
+        "mean": 18.535287013148324,
+        "median": 17.4421146760018,
+        "std": 12.402832279516184,
+        "skewness": 0.6923789300553642,
+        "kurtosis": 0.8047025594682475
+      },
+      "Industry (including construction), value added (% of GDP)": {
+        "mean": 27.03529237385434,
+        "median": 23.8636600934779,
+        "std": 13.996217531029714,
+        "skewness": 1.6362204350385547,
+        "kurtosis": 3.219692489298407
+      },
+      "Services, value added (% of GDP)": {
+        "mean": 47.13517920840344,
+        "median": 47.08397258327935,
+        "std": 11.601985253741503,
+        "skewness": 0.16915493178011615,
+        "kurtosis": 0.8858752175453599
+      }
+    },
+    "distribution_stats_adjusted": {
+      "SDG_NAT_XGDP.FSGOV": {
+        "transformation": "log1p",
+        "mean": 1.482030078142861,
+        "median": 1.479380584740704,
+        "std": 0.40824611024273855,
+        "skewness": -0.0604714116543245,
+        "kurtosis": 0.2256138081453556
+      },
+      "Foreign direct investment, net inflows (% of GDP)": {
+        "transformation": "log1p(+17.292118)",
+        "mean": 3.078075155024541,
+        "median": 3.0259127776141406,
+        "std": 0.23583771459987,
+        "skewness": 0.21780098750107219,
+        "kurtosis": 30.33240103710856
+      },
+      "Agriculture, forestry, and fishing, value added (% of GDP)": {
+        "transformation": "none",
+        "mean": 18.535287013148324,
+        "median": 17.4421146760018,
+        "std": 12.402832279516184,
+        "skewness": 0.6923789300553642,
+        "kurtosis": 0.8047025594682475
+      },
+      "Industry (including construction), value added (% of GDP)": {
+        "transformation": "log1p",
+        "mean": 3.226178704560385,
+        "median": 3.2134073034626867,
+        "std": 0.4612397159722015,
+        "skewness": -0.018881993255341702,
+        "kurtosis": 0.9142006145080432
+      },
+      "Services, value added (% of GDP)": {
+        "transformation": "none",
+        "mean": 47.13517920840344,
+        "median": 47.08397258327935,
+        "std": 11.601985253741503,
+        "skewness": 0.16915493178011615,
+        "kurtosis": 0.8858752175453599
+      }
+    },
+    "outlier_summary": {
+      "SDG_NAT_XGDP.FSGOV": {
+        "q1": 2.320319201256809,
+        "q3": 4.850257635116577,
+        "iqr": 2.529938433859768,
+        "lower_bound": -1.4745884495328432,
+        "upper_bound": 8.645165285906229,
+        "outlier_count": 45,
+        "outlier_pct": 3.3333333333333335
+      },
+      "Foreign direct investment, net inflows (% of GDP)": {
+        "q1": 1.0603190565234824,
+        "q3": 4.825880079734297,
+        "iqr": 3.7655610232108145,
+        "lower_bound": -4.588022478292739,
+        "upper_bound": 10.474221614550519,
+        "outlier_count": 118,
+        "outlier_pct": 8.74074074074074
+      },
+      "Agriculture, forestry, and fishing, value added (% of GDP)": {
+        "q1": 7.876122612217287,
+        "q3": 26.8682891512691,
+        "iqr": 18.992166539051812,
+        "lower_bound": -20.612127196360433,
+        "upper_bound": 55.356538959846816,
+        "outlier_count": 10,
+        "outlier_pct": 0.7407407407407408
+      },
+      "Industry (including construction), value added (% of GDP)": {
+        "q1": 18.141313646573828,
+        "q3": 31.550081349806074,
+        "iqr": 13.408767703232247,
+        "lower_bound": -1.9718379082745443,
+        "upper_bound": 51.66323290465445,
+        "outlier_count": 95,
+        "outlier_pct": 7.037037037037037
+      },
+      "Services, value added (% of GDP)": {
+        "q1": 40.246868058162626,
+        "q3": 53.16637465010497,
+        "iqr": 12.919506591942344,
+        "lower_bound": 20.86760817024911,
+        "upper_bound": 72.54563453801849,
+        "outlier_count": 56,
+        "outlier_pct": 4.148148148148148
+      }
+    },
+    "outlier_adjusted_stats": {
+      "SDG_NAT_XGDP.FSGOV": {
+        "method": "winsorized_iqr",
+        "mean": 3.7330836831859564,
+        "median": 3.390225465889059,
+        "std": 1.869904664047809,
+        "skewness": 0.8190372707852038,
+        "kurtosis": 0.2945620937176856
+      },
+      "Foreign direct investment, net inflows (% of GDP)": {
+        "method": "winsorized_iqr",
+        "mean": 3.2700884052793757,
+        "median": 2.320693013441015,
+        "std": 3.241006267749914,
+        "skewness": 0.832276340990296,
+        "kurtosis": 0.215897904878541
+      },
+      "Agriculture, forestry, and fishing, value added (% of GDP)": {
+        "method": "winsorized_iqr",
+        "mean": 18.436003969542544,
+        "median": 17.4421146760018,
+        "std": 12.035945035851107,
+        "skewness": 0.4287095585047043,
+        "kurtosis": -0.5281849863382653
+      },
+      "Industry (including construction), value added (% of GDP)": {
+        "method": "winsorized_iqr",
+        "mean": 26.087407138780087,
+        "median": 23.8636600934779,
+        "std": 11.339207609142937,
+        "skewness": 0.801090967543167,
+        "kurtosis": 0.0456787393307625
+      },
+      "Services, value added (% of GDP)": {
+        "method": "winsorized_iqr",
+        "mean": 47.05842022467537,
+        "median": 47.08397258327935,
+        "std": 10.991235413703256,
+        "skewness": 0.07891757691761965,
+        "kurtosis": 0.13120203363808614
+      }
+    }
+  },
+  "correlations": [
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3491620443417579,
+      "p_value": 5.440387503283653e-40,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3491620443417579,
+      "p_value": 5.440387503283653e-40,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.3347398061134053,
+      "p_value": 1.05537739099402e-36,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.3347398061134053,
+      "p_value": 1.05537739099402e-36,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.32794763284573775,
+      "p_value": 3.2526674733611375e-35,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.32794763284573775,
+      "p_value": 3.2526674733611375e-35,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3268243943133037,
+      "p_value": 5.686372923784763e-35,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3268243943133037,
+      "p_value": 5.686372923784763e-35,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.32552860620838914,
+      "p_value": 1.0800189577530288e-34,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.32552860620838914,
+      "p_value": 1.0800189577530288e-34,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3071024603908469,
+      "p_value": 7.084447439094345e-31,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.3071024603908469,
+      "p_value": 7.084447439094345e-31,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.3022550676824109,
+      "p_value": 6.459660601540388e-30,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.3022550676824109,
+      "p_value": 6.459660601540388e-30,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.2970559678978606,
+      "p_value": 6.60195576810158e-29,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.2970559678978606,
+      "p_value": 6.60195576810158e-29,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.28958660158192545,
+      "p_value": 1.713744542364767e-27,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "correlation": 0.28958660158192545,
+      "p_value": 1.713744542364767e-27,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.2536420329093107,
+      "p_value": 2.908025484724716e-21,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment, total (% of total labor force)",
+      "correlation": 0.2536420329093107,
+      "p_value": 2.908025484724716e-21,
+      "sample_size": 1350,
+      "significance": "***",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.06112333409189649,
+      "p_value": 0.024714615820611387,
+      "sample_size": 1350,
+      "significance": "*",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.06112333409189649,
+      "p_value": 0.024714615820611387,
+      "sample_size": 1350,
+      "significance": "*",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.03474086628540369,
+      "p_value": 0.2020744646162333,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.03474086628540369,
+      "p_value": 0.2020744646162333,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.03152862649006961,
+      "p_value": 0.2470067253390554,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.03152862649006961,
+      "p_value": 0.2470067253390554,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.02727828412179472,
+      "p_value": 0.31657252943681485,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.02727828412179472,
+      "p_value": 0.31657252943681485,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "sdg"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.01180379280389447,
+      "p_value": 0.664787837093829,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "traditional"
+    },
+    {
+      "education_indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "labour_indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "correlation": 0.01180379280389447,
+      "p_value": 0.664787837093829,
+      "sample_size": 1350,
+      "significance": "ns",
+      "type": "sdg"
+    }
+  ],
+  "vif": [
+    {
+      "indicator": "SDG_NAT_AIR.1.GLAST.GPIA",
+      "vif": 1.3544302771209962
+    },
+    {
+      "indicator": "SDG_NAT_AIR.1.GLAST.M",
+      "vif": 3.8015550718168893
+    },
+    {
+      "indicator": "SDG_NAT_AIR.2.GPV.GLAST",
+      "vif": 4.041418593024141
+    },
+    {
+      "indicator": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "vif": 1.2594232384879385
+    },
+    {
+      "indicator": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "vif": 1.0943910682943083
+    }
+  ],
+  "vif_recommendations": [
+    {
+      "indicator": "SDG_NAT_AIR.1.GLAST",
+      "vif": 3078.689858360019
+    },
+    {
+      "indicator": "SDG_NAT_AIR.1.GLAST.F",
+      "vif": 77.92815621668915
+    },
+    {
+      "indicator": "Unemployment, total (% of total labor force)",
+      "vif": 12.761635532366451
+    }
+  ],
+  "ml_models": [
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "model": "Linear Regression",
+      "r2": 0.5427986352668548,
+      "rmse": 11.958153580084584,
+      "mae": 8.266510935612725,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 14,
+      "features": [
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "School enrollment, secondary (% gross)",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Industry (including construction), value added (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Government expenditure on education, total (% of GDP)",
+        "Services, value added (% of GDP)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "model": "Ridge",
+      "r2": 0.5429238013097151,
+      "rmse": 11.956516602012075,
+      "mae": 8.29790167939461,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 14,
+      "features": [
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "School enrollment, secondary (% gross)",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Industry (including construction), value added (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Government expenditure on education, total (% of GDP)",
+        "Services, value added (% of GDP)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "model": "Lasso",
+      "r2": 0.5411825833902589,
+      "rmse": 11.979268947741597,
+      "mae": 8.395387855966813,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 14,
+      "features": [
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "School enrollment, secondary (% gross)",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Industry (including construction), value added (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Government expenditure on education, total (% of GDP)",
+        "Services, value added (% of GDP)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "model": "Random Forest (tuned)",
+      "r2": 0.9343137349845576,
+      "rmse": 4.532602686535853,
+      "mae": 2.5060960755417767,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 14,
+      "features": [
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "School enrollment, secondary (% gross)",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Industry (including construction), value added (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Government expenditure on education, total (% of GDP)",
+        "Services, value added (% of GDP)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "model": "Gradient Boosting (tuned)",
+      "r2": 0.9604679383352961,
+      "rmse": 3.51629335418172,
+      "mae": 2.2019916424959454,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 14,
+      "features": [
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "School enrollment, secondary (% gross)",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Industry (including construction), value added (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Government expenditure on education, total (% of GDP)",
+        "Services, value added (% of GDP)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite",
+        "services_dominance"
+      ],
+      "cv_mean_r2": 0.18008208148472699,
+      "cv_std_r2": 0.46217031346616433
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "model": "Linear Regression",
+      "r2": 0.10939000247962083,
+      "rmse": 6.088451638784116,
+      "mae": 4.05315654098718,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "School enrollment, primary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Foreign direct investment, net inflows (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Services, value added (% of GDP)",
+        "Population growth (annual %)",
+        "GDP growth (annual %)",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "model": "Ridge",
+      "r2": 0.1097577383943914,
+      "rmse": 6.0871945377502055,
+      "mae": 4.052282139988862,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "School enrollment, primary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Foreign direct investment, net inflows (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Services, value added (% of GDP)",
+        "Population growth (annual %)",
+        "GDP growth (annual %)",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "model": "Lasso",
+      "r2": 0.11378060545169111,
+      "rmse": 6.073425419803831,
+      "mae": 4.038073612256925,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "School enrollment, primary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Foreign direct investment, net inflows (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Services, value added (% of GDP)",
+        "Population growth (annual %)",
+        "GDP growth (annual %)",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "model": "Random Forest (tuned)",
+      "r2": 0.6357668521040581,
+      "rmse": 3.8936132520316926,
+      "mae": 1.6750296291883393,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "School enrollment, primary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Foreign direct investment, net inflows (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Services, value added (% of GDP)",
+        "Population growth (annual %)",
+        "GDP growth (annual %)",
+        "services_dominance"
+      ]
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "model": "Gradient Boosting (tuned)",
+      "r2": 0.6732131874172222,
+      "rmse": 3.6880375900662017,
+      "mae": 1.5968640649471064,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "School enrollment, tertiary (% gross)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "School enrollment, primary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Foreign direct investment, net inflows (% of GDP)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Services, value added (% of GDP)",
+        "Population growth (annual %)",
+        "GDP growth (annual %)",
+        "services_dominance"
+      ],
+      "cv_mean_r2": -0.27154119068125154,
+      "cv_std_r2": 0.3964695105867895
+    },
+    {
+      "target": "Unemployment, total (% of total labor force)",
+      "model": "Linear Regression",
+      "r2": 0.9295684161672452,
+      "rmse": 1.9968289187843742,
+      "mae": 1.4276861990720195,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, secondary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Government expenditure on education, total (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Population growth (annual %)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite"
+      ]
+    },
+    {
+      "target": "Unemployment, total (% of total labor force)",
+      "model": "Ridge",
+      "r2": 0.9297141878719487,
+      "rmse": 1.9947614377779077,
+      "mae": 1.4271922863530635,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, secondary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Government expenditure on education, total (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Population growth (annual %)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite"
+      ]
+    },
+    {
+      "target": "Unemployment, total (% of total labor force)",
+      "model": "Lasso",
+      "r2": 0.9266836698346734,
+      "rmse": 2.0373117476820504,
+      "mae": 1.443015020644402,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, secondary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Government expenditure on education, total (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Population growth (annual %)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite"
+      ]
+    },
+    {
+      "target": "Unemployment, total (% of total labor force)",
+      "model": "Random Forest (tuned)",
+      "r2": 0.9872332681520286,
+      "rmse": 0.8501528177447625,
+      "mae": 0.46488581688323644,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, secondary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Government expenditure on education, total (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Population growth (annual %)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite"
+      ]
+    },
+    {
+      "target": "Unemployment, total (% of total labor force)",
+      "model": "Gradient Boosting (tuned)",
+      "r2": 0.9957137342460656,
+      "rmse": 0.49260257472771324,
+      "mae": 0.31023746078033504,
+      "train_size": 1080,
+      "test_size": 270,
+      "feature_count": 13,
+      "features": [
+        "Unemployment, youth total (% of total labor force ages 15-24)",
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Population ages 15-64 (% of total population)",
+        "SDG_NAT_XGDP.FSGOV",
+        "Literacy rate, youth total (% of people ages 15-24)",
+        "School enrollment, secondary (% gross)",
+        "Industry (including construction), value added (% of GDP)",
+        "Government expenditure on education, total (% of GDP)",
+        "Pupil-teacher ratio in primary education (headcount basis)",
+        "Population growth (annual %)",
+        "Primary completion rate, total (% of relevant age group)",
+        "literacy_composite"
+      ],
+      "cv_mean_r2": 0.86433222990835,
+      "cv_std_r2": 0.08502296612400312
+    }
+  ],
+  "forecasts": [
+    {
+      "target": "Unemployment, youth total (% of total labor force ages 15-24)",
+      "views": [
+        {
+          "view": "raw",
+          "treatment_report": {},
+          "trend_coefficient": 0.0012991880341878556,
+          "trend_intercept": 14.947399601139958,
+          "trend_direction": "increasing",
+          "historical_rmse": 0.47291480503773425,
+          "historical_r2": 0.0003922935275684214,
+          "historical_points": [
+            {
+              "year": 2000,
+              "value": 17.724314814814814
+            },
+            {
+              "year": 2001,
+              "value": 17.902574074074074
+            },
+            {
+              "year": 2002,
+              "value": 17.956
+            },
+            {
+              "year": 2003,
+              "value": 18.023888888888887
+            },
+            {
+              "year": 2004,
+              "value": 17.591592592592594
+            },
+            {
+              "year": 2005,
+              "value": 17.476777777777777
+            },
+            {
+              "year": 2006,
+              "value": 17.140462962962964
+            },
+            {
+              "year": 2007,
+              "value": 17.057314814814816
+            },
+            {
+              "year": 2008,
+              "value": 16.916814814814817
+            },
+            {
+              "year": 2009,
+              "value": 17.187925925925928
+            },
+            {
+              "year": 2010,
+              "value": 17.51033333333333
+            },
+            {
+              "year": 2011,
+              "value": 17.737333333333336
+            },
+            {
+              "year": 2012,
+              "value": 17.62203703703704
+            },
+            {
+              "year": 2013,
+              "value": 17.37009259259259
+            },
+            {
+              "year": 2014,
+              "value": 17.34887037037037
+            },
+            {
+              "year": 2015,
+              "value": 17.55827777777778
+            },
+            {
+              "year": 2016,
+              "value": 17.436722222222222
+            },
+            {
+              "year": 2017,
+              "value": 17.493407407407407
+            },
+            {
+              "year": 2018,
+              "value": 17.164592592592594
+            },
+            {
+              "year": 2019,
+              "value": 17.204333333333334
+            },
+            {
+              "year": 2020,
+              "value": 19.04135185185185
+            },
+            {
+              "year": 2021,
+              "value": 18.6525
+            },
+            {
+              "year": 2022,
+              "value": 17.540277777777778
+            },
+            {
+              "year": 2023,
+              "value": 17.224185185185185
+            },
+            {
+              "year": 2024,
+              "value": 17.152166666666666
+            }
+          ],
+          "forecasts": [
+            {
+              "year": 2025,
+              "value": 17.578255370370364
+            },
+            {
+              "year": 2026,
+              "value": 17.579554558404553
+            },
+            {
+              "year": 2027,
+              "value": 17.58085374643874
+            }
+          ]
+        },
+        {
+          "view": "treated",
+          "treatment_report": {},
+          "trend_coefficient": 0.0012991880341878556,
+          "trend_intercept": 14.947399601139958,
+          "trend_direction": "increasing",
+          "historical_rmse": 0.47291480503773425,
+          "historical_r2": 0.0003922935275684214,
+          "historical_points": [
+            {
+              "year": 2000,
+              "value": 17.724314814814814
+            },
+            {
+              "year": 2001,
+              "value": 17.902574074074074
+            },
+            {
+              "year": 2002,
+              "value": 17.956
+            },
+            {
+              "year": 2003,
+              "value": 18.023888888888887
+            },
+            {
+              "year": 2004,
+              "value": 17.591592592592594
+            },
+            {
+              "year": 2005,
+              "value": 17.476777777777777
+            },
+            {
+              "year": 2006,
+              "value": 17.140462962962964
+            },
+            {
+              "year": 2007,
+              "value": 17.057314814814816
+            },
+            {
+              "year": 2008,
+              "value": 16.916814814814817
+            },
+            {
+              "year": 2009,
+              "value": 17.187925925925928
+            },
+            {
+              "year": 2010,
+              "value": 17.51033333333333
+            },
+            {
+              "year": 2011,
+              "value": 17.737333333333336
+            },
+            {
+              "year": 2012,
+              "value": 17.62203703703704
+            },
+            {
+              "year": 2013,
+              "value": 17.37009259259259
+            },
+            {
+              "year": 2014,
+              "value": 17.34887037037037
+            },
+            {
+              "year": 2015,
+              "value": 17.55827777777778
+            },
+            {
+              "year": 2016,
+              "value": 17.436722222222222
+            },
+            {
+              "year": 2017,
+              "value": 17.493407407407407
+            },
+            {
+              "year": 2018,
+              "value": 17.164592592592594
+            },
+            {
+              "year": 2019,
+              "value": 17.204333333333334
+            },
+            {
+              "year": 2020,
+              "value": 19.04135185185185
+            },
+            {
+              "year": 2021,
+              "value": 18.6525
+            },
+            {
+              "year": 2022,
+              "value": 17.540277777777778
+            },
+            {
+              "year": 2023,
+              "value": 17.224185185185185
+            },
+            {
+              "year": 2024,
+              "value": 17.152166666666666
+            }
+          ],
+          "forecasts": [
+            {
+              "year": 2025,
+              "value": 17.578255370370364
+            },
+            {
+              "year": 2026,
+              "value": 17.579554558404553
+            },
+            {
+              "year": 2027,
+              "value": 17.58085374643874
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "Unemployment with advanced education (% of total labor force with advanced education)",
+      "views": [
+        {
+          "view": "raw",
+          "treatment_report": {},
+          "trend_coefficient": 0.011889712725546746,
+          "trend_intercept": -12.388622744540799,
+          "trend_direction": "increasing",
+          "historical_rmse": 0.3918844151989721,
+          "historical_r2": 0.0456798004629021,
+          "historical_points": [
+            {
+              "year": 2000,
+              "value": 11.89012962962963
+            },
+            {
+              "year": 2001,
+              "value": 11.88907098765432
+            },
+            {
+              "year": 2002,
+              "value": 11.860753086419754
+            },
+            {
+              "year": 2003,
+              "value": 11.910393518518518
+            },
+            {
+              "year": 2004,
+              "value": 11.639089506172839
+            },
+            {
+              "year": 2005,
+              "value": 11.632133641975308
+            },
+            {
+              "year": 2006,
+              "value": 11.10229420995671
+            },
+            {
+              "year": 2007,
+              "value": 10.613242586580087
+            },
+            {
+              "year": 2008,
+              "value": 10.6558615981241
+            },
+            {
+              "year": 2009,
+              "value": 10.82088184423601
+            },
+            {
+              "year": 2010,
+              "value": 11.161035732323231
+            },
+            {
+              "year": 2011,
+              "value": 11.178583138928971
+            },
+            {
+              "year": 2012,
+              "value": 11.366874512987012
+            },
+            {
+              "year": 2013,
+              "value": 11.190957002565336
+            },
+            {
+              "year": 2014,
+              "value": 11.486049523007855
+            },
+            {
+              "year": 2015,
+              "value": 11.688883026695528
+            },
+            {
+              "year": 2016,
+              "value": 11.824886944845277
+            },
+            {
+              "year": 2017,
+              "value": 11.994771895542728
+            },
+            {
+              "year": 2018,
+              "value": 11.909346661054995
+            },
+            {
+              "year": 2019,
+              "value": 11.834700130270964
+            },
+            {
+              "year": 2020,
+              "value": 11.821526438993105
+            },
+            {
+              "year": 2021,
+              "value": 11.719399815616484
+            },
+            {
+              "year": 2022,
+              "value": 11.706675308641977
+            },
+            {
+              "year": 2023,
+              "value": 11.665533333333334
+            },
+            {
+              "year": 2024,
+              "value": 11.773907407407409
+            }
+          ],
+          "forecasts": [
+            {
+              "year": 2025,
+              "value": 11.688045524691363
+            },
+            {
+              "year": 2026,
+              "value": 11.699935237416907
+            },
+            {
+              "year": 2027,
+              "value": 11.711824950142455
+            }
+          ]
+        },
+        {
+          "view": "treated",
+          "treatment_report": {},
+          "trend_coefficient": 0.011889712725546746,
+          "trend_intercept": -12.388622744540799,
+          "trend_direction": "increasing",
+          "historical_rmse": 0.3918844151989721,
+          "historical_r2": 0.0456798004629021,
+          "historical_points": [
+            {
+              "year": 2000,
+              "value": 11.89012962962963
+            },
+            {
+              "year": 2001,
+              "value": 11.88907098765432
+            },
+            {
+              "year": 2002,
+              "value": 11.860753086419754
+            },
+            {
+              "year": 2003,
+              "value": 11.910393518518518
+            },
+            {
+              "year": 2004,
+              "value": 11.639089506172839
+            },
+            {
+              "year": 2005,
+              "value": 11.632133641975308
+            },
+            {
+              "year": 2006,
+              "value": 11.10229420995671
+            },
+            {
+              "year": 2007,
+              "value": 10.613242586580087
+            },
+            {
+              "year": 2008,
+              "value": 10.6558615981241
+            },
+            {
+              "year": 2009,
+              "value": 10.82088184423601
+            },
+            {
+              "year": 2010,
+              "value": 11.161035732323231
+            },
+            {
+              "year": 2011,
+              "value": 11.178583138928971
+            },
+            {
+              "year": 2012,
+              "value": 11.366874512987012
+            },
+            {
+              "year": 2013,
+              "value": 11.190957002565336
+            },
+            {
+              "year": 2014,
+              "value": 11.486049523007855
+            },
+            {
+              "year": 2015,
+              "value": 11.688883026695528
+            },
+            {
+              "year": 2016,
+              "value": 11.824886944845277
+            },
+            {
+              "year": 2017,
+              "value": 11.994771895542728
+            },
+            {
+              "year": 2018,
+              "value": 11.909346661054995
+            },
+            {
+              "year": 2019,
+              "value": 11.834700130270964
+            },
+            {
+              "year": 2020,
+              "value": 11.821526438993105
+            },
+            {
+              "year": 2021,
+              "value": 11.719399815616484
+            },
+            {
+              "year": 2022,
+              "value": 11.706675308641977
+            },
+            {
+              "year": 2023,
+              "value": 11.665533333333334
+            },
+            {
+              "year": 2024,
+              "value": 11.773907407407409
+            }
+          ],
+          "forecasts": [
+            {
+              "year": 2025,
+              "value": 11.688045524691363
+            },
+            {
+              "year": 2026,
+              "value": 11.699935237416907
+            },
+            {
+              "year": 2027,
+              "value": 11.711824950142455
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
